@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f5eee4"/>
+
+  <rect x="100" y="55" width="600" height="340" rx="22"
+        fill="#fffaf3" stroke="#6f4e37" stroke-width="6"/>
+
+  <rect x="100" y="55" width="600" height="70" rx="22"
+        fill="#6f4e37"/>
+
+  <text x="400" y="101"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="25"
+        font-weight="bold"
+        fill="#fffaf3">
+    AI Study Assistant
+  </text>
+
+  <circle cx="205" cy="205" r="55" fill="#eadbc9"
+          stroke="#8a6148" stroke-width="4"/>
+
+  <circle cx="188" cy="195" r="7" fill="#6f4e37"/>
+  <circle cx="222" cy="195" r="7" fill="#6f4e37"/>
+
+  <path d="M180 220 Q205 240 230 220"
+        fill="none"
+        stroke="#6f4e37"
+        stroke-width="5"
+        stroke-linecap="round"/>
+
+  <rect x="300" y="160" width="300" height="35" rx="10"
+        fill="#d8bfa5"/>
+
+  <rect x="300" y="215" width="250" height="20" rx="8"
+        fill="#eadbc9"/>
+
+  <rect x="300" y="250" width="275" height="20" rx="8"
+        fill="#eadbc9"/>
+
+  <rect x="300" y="300" width="150" height="45" rx="10"
+        fill="#6f4e37"/>
+
+  <text x="375" y="329"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="18"
+        fill="#fffaf3">
+    Study
+  </text>
+</svg>
